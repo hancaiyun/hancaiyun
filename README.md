@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hancaiyun
-- 👀 I’m interested in playing games and surfing in internet
+- 👀 I’m interested in internet technology
 - 🌱 I’m currently learning alibaba technology
 - 💞️ I’m looking to collaborate on online project
 - 📫 How to reach me nicehancy@yeah.net
